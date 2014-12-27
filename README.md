@@ -3,7 +3,7 @@ App-Rate
 
 Rate this app - phonegap plugin
 
-
+![alt tag](https://github.com/halachev/App-Rate/blob/master/apprate.png)
 how to use:
 ========
 
