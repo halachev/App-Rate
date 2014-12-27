@@ -1,4 +1,4 @@
-package ify.next.com;
+package app.name.com;
 
 import org.apache.cordova.CallbackContext;
 
