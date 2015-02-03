@@ -24,8 +24,7 @@ how to use:
 	
 		if (res.body == "ok") {
 	
-			window.open('https://play.google.com/store/apps/details?id=??? your app name', 
-			'_blank', 'location=yes'); 
+			window.open('market://details?id=<package name>', '_system');
 			return true;
 		}
 
